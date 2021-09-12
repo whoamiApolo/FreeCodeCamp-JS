@@ -1,4 +1,4 @@
-let myArray, array, removedFromMyArray
+let myArray, removedFromMyArray
 
 myArray = [["John", 23], ["cat", 2]]
 removedFromMyArray = myArray.pop()
